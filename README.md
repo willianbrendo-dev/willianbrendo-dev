@@ -1,6 +1,9 @@
 <h1 align="rigth">Olá, meu nome é Willian Brendo, estudo programação por conta própria.</h1>
 🧑‍💻 Linguagens: Python 
+
 💼 Ferramentas: VSCode
+
+
 
 Olá! Que bom te encontrar por aqui! 👋
 Dê uma olhada no meu cantinho de código. Sou um aspirante a mestre do universo digital, atualmente trilhando a jornada da programação por conta própria. Pense em mim como um Jedi em treinamento, mas com um teclado em vez de um sabre de luz (e talvez um pouco mais de café).
